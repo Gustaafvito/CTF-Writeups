@@ -1,4 +1,4 @@
-# Mis-writeup
+# Mis writeups de CTF
 Colección de mis writeups de CTF
 ## Contenido por Plataforma
 * ### Mirasoyroot
