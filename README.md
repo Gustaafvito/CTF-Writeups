@@ -13,9 +13,7 @@ Aquí almaceno mis write-ups detallados sobre máquinas y desafíos de cibersegu
 
 | Reto / Máquina | Plataforma | Tipo | Ver Write-up |
 | :--- | :--- | :--- | :---: |
-| **MiraSoyRoot** | Web / CTF | 🚩 Capture The Flag | [📄 Leer PDF](./mirasoyroot.pdf) |
-
-
+| **MiraSoyRoot** | Web / CTF | 🚩 Capture The Flag | [📄 Leer PDF](mirasoyroot/mirasoyroot%20CTF%20writeup.pdf) |
 
 ---
 
