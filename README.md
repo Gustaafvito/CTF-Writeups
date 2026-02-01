@@ -15,7 +15,7 @@ Aquí almaceno mis write-ups detallados sobre máquinas y desafíos de cibersegu
 | :--- | :--- | :--- | :---: |
 | **MiraSoyRoot** | Web / CTF | 🚩 Capture The Flag | [📄 Leer PDF](./mirasoyroot.pdf) |
 
-*(Nota: Asegúrate de que el nombre del archivo en el enlace, por ejemplo `./mirasoyroot.pdf`, coincida exactamente con el que subas).*
+
 
 ---
 
